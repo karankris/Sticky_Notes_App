@@ -8,5 +8,5 @@
 - User can `add()` the details and `remove()` if it is not needed.
 - **Conditions:** Details should not be empty and the textLength should be withing 35 Characters.
 - Added Animate On Scroll Library and animated gif for more interative User Interface.
-- 
+  
 ### My App is live at [https://karankris.github.io/Sticky_Notes_App/]
